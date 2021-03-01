@@ -1,5 +1,4 @@
 # hello-world
 
-Hello there!
-
-I am a CS student trying to pass and graduate!
+CSE 360 Hello World github demo
+Name: Jacob Russ
